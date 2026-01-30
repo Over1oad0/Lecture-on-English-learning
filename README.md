@@ -1,6 +1,6 @@
 # English Lesson Notes 
 
-This repository contains structured English lesson materials designed for a Grade 6 student following the Swedish school curriculum.
+This repository contains structured English lesson materials designed for a primary school student following the Swedish school curriculum.
 
 The lessons are based on reading-centered instruction and focus on developing reading comprehension, writing, and speaking skills.
 
