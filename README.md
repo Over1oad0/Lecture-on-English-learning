@@ -31,6 +31,6 @@ Each lesson is designed for a 2-hour session and consists of:
 ## Repository Structure
 
 ```text
-Lecture_N1.pdf
-Lecture_N1_Record.pdf
-Lecture_N2 ...
+Lecture_01_Note.pdf
+Lecture_01_Record.pdf
+Lecture_02 ...
